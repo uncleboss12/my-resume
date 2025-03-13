@@ -1,11 +1,11 @@
 ## JUSTINE OBIAZI
--
+
 (541) 250-7517 | justineobiazi@gmail.com | Vancouver, WA | justineobiazi.com | LinkedIn
---
+
 ## PROFESSIONAL SUMMARY
--
+
 I am a results-driven Solution Architect with extensive experience in designing and implementing robust cloud infrastructure using AWS services. Expert in containerized applications, serverless architectures, and -infrastructure as code. Demonstrated ability to translate complex business requirements into scalable and cost-effective cloud solutions while maintaining security and reliability standards.
----
+
 ## RELEVANT COURSEWORK
 Machine Learning, Causal Inference For AI, Probabilistic Graphical Models, Optimization in Water Resources Engineering, Applied Machine Learning, Methods of Data Analysis.
 
