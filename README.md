@@ -51,30 +51,35 @@ Leveraged machine learning classifiers to annotate and identify census tracts wi
  -  Developed custom SQL queries and views for business intelligence reporting
 - **Outcomes:** Reduced data processing time by 65% and enabled real-time analytics for business decision-making
 
-## Personal Website on AWS EKS (justineobiazi.com) (2024)
+**Personal Website on AWS EKS (justineobiazi.com) (2024)**
+
 - Designed and implemented a modern personal website using Vue.js, showcasing professional portfolio and technical capabilities
-Cloud Architecture:
-Deployed the application to AWS EKS for container orchestration and high availability
-Provisioned all infrastructure using Terraform for repeatable and version-controlled deployments
-Implemented CloudFront CDN for content delivery acceleration and global reach
-Configured Route 53 for domain management and DNS routing
-Utilized DynamoDB to capture and analyze visitor metrics and engagement patterns
-CI/CD Pipeline:
-Developed automated deployment workflows using GitHub Actions
-Implemented container registry integration for artifact storage
-Configured blue/green deployment strategy for zero-downtime updates
-Conversational AI Assistant using AWS Bedrock (2024)
-Designed and implemented an intelligent chatbot using AWS Bedrock and Claude AI model to assist with customer inquiries
-Technical Details:
-Leveraged AWS Bedrock for foundation model access and inference
-Integrated with custom knowledge base for domain-specific queries
-Implemented user feedback loops for continuous model improvement
-Deployed using serverless architecture (Lambda, API Gateway) for cost efficiency
-Results: Automated response to 75% of routine customer inquiries, reducing support team workload while maintaining high customer satisfaction
-CERTIFICATIONS
-Oracle Cloud Infrastructure 2024 Generative AI Professional
-2023 AGAID Digital AgAthon Participant
-Microsoft Certified: Azure Data Science Associate
-AWS Certified Cloud Practitioner
-AWS Certified Solutions Architect - Associate
-GCP Professional Data Engineer
+- Cloud Architecture:
+  - Deployed the application to AWS EKS for container orchestration and high availability
+  - Provisioned all infrastructure using Terraform for repeatable and version-controlled deployments
+  - Implemented CloudFront CDN for content delivery acceleration and global reach
+  - Configured Route 53 for domain management and DNS routing
+  - Utilized DynamoDB to capture and analyze visitor metrics and engagement patterns
+- CI/CD Pipeline:
+  - Developed automated deployment workflows using GitHub Actions
+  - Implemented container registry integration for artifact storage
+  - Configured blue/green deployment strategy for zero-downtime updates
+
+**Conversational AI Assistant using AWS Bedrock (2024)**
+
+- Designed and implemented an intelligent chatbot using AWS Bedrock and Claude AI model to assist with customer inquiries
+- Technical Details:
+  - Leveraged AWS Bedrock for foundation model access and inference
+  - Integrated with custom knowledge base for domain-specific queries
+  - Implemented user feedback loops for continuous model improvement
+  - Deployed using serverless architecture (Lambda, API Gateway) for cost efficiency
+- **Results:** Automated response to 75% of routine customer inquiries, reducing support team workload while maintaining high customer satisfaction
+
+### CERTIFICATIONS
+
+- Oracle Cloud Infrastructure 2024 Generative AI Professional
+- 2023 AGAID Digital AgAthon Participant
+- Microsoft Certified: Azure Data Science Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
+- GCP Professional Data Engineer
