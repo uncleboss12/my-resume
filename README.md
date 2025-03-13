@@ -1,6 +1,6 @@
 ## JUSTINE OBIAZI
 
-(541) 250-7517 | justineobiazi@gmail.com | Vancouver, WA | justineobiazi.com | LinkedIn
+(541) 250-7517 | justineobiazi@gmail.com | Vancouver, WA | [justineobiazi.com](https://www.justineobiazi.com) | [LinkedIn](https://www.linkedin.com/in/justine-obiazi-a0363075/)
 
 ## PROFESSIONAL SUMMARY
 
