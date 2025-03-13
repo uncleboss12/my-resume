@@ -1,13 +1,14 @@
-
 ## JUSTINE OBIAZI
+-
 (541) 250-7517 | justineobiazi@gmail.com | Vancouver, WA | justineobiazi.com | LinkedIn
-
+--
 ## PROFESSIONAL SUMMARY
-I am a results-driven Solution Architect with extensive experience in designing and implementing robust cloud infrastructure using AWS services. Expert in containerized applications, serverless architectures, and infrastructure as code. Demonstrated ability to translate complex business requirements into scalable and cost-effective cloud solutions while maintaining security and reliability standards.
-----
+-
+I am a results-driven Solution Architect with extensive experience in designing and implementing robust cloud infrastructure using AWS services. Expert in containerized applications, serverless architectures, and -infrastructure as code. Demonstrated ability to translate complex business requirements into scalable and cost-effective cloud solutions while maintaining security and reliability standards.
+---
 ## RELEVANT COURSEWORK
 Machine Learning, Causal Inference For AI, Probabilistic Graphical Models, Optimization in Water Resources Engineering, Applied Machine Learning, Methods of Data Analysis.
----
+
 ## SKILLS
 - **AWS Services**: EKS, EC2, S3, Lambda, CloudFront, Route 53, DynamoDB, SQS, Redshift, IAM, VPC, RDS
 - **DevOps & Infrastructure**: Terraform, Docker, Kubernetes, CI/CD (GitHub Actions), Infrastructure as Code
@@ -49,8 +50,9 @@ Leveraged machine learning classifiers to annotate and identify census tracts wi
  - Created ETL processes to transform raw data for analysis in Redshift data warehouse
  -  Developed custom SQL queries and views for business intelligence reporting
 - **Outcomes:** Reduced data processing time by 65% and enabled real-time analytics for business decision-making
-Personal Website on AWS EKS (justineobiazi.com) (2024)
-Designed and implemented a modern personal website using Vue.js, showcasing professional portfolio and technical capabilities
+
+## Personal Website on AWS EKS (justineobiazi.com) (2024)
+- Designed and implemented a modern personal website using Vue.js, showcasing professional portfolio and technical capabilities
 Cloud Architecture:
 Deployed the application to AWS EKS for container orchestration and high availability
 Provisioned all infrastructure using Terraform for repeatable and version-controlled deployments
